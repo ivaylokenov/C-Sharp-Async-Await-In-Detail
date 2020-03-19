@@ -1,4 +1,4 @@
-# C# Async-Await In Details
+# C# Async-Await In Detail
 
 This repository contains the presentation and the demos from my event "C# Async-Await In Details - Code It Up Online Vol. 1". If you liked the event or the code, please consider giving me a star. Thank you!
 
