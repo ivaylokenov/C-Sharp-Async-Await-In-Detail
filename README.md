@@ -46,4 +46,4 @@ Additional resources:
 
 - My YouTube channel is a great place to learn advanced C# concepts. Make sure you subscribe and turn on the bell notifications: https://www.youtube.com/MyTestedASPNETTV
 - [C# Multithreading - Code It Up Workshop Vol. 1](http://bit.ly/ciu-multithreading) - Workshop about C# Multithreading
-- [Domain Driven Design With ASP.NET Core - Code It Up Workshop Vol. 2:](http://bit.ly/ciu-ddd) - Workshop about Domain Driven Design and Clean Architecture with ASP.NET Core
+- [Domain Driven Design With ASP.NET Core - Code It Up Workshop Vol. 2](http://bit.ly/ciu-ddd) - Workshop about Domain Driven Design and Clean Architecture with ASP.NET Core
