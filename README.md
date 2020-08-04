@@ -30,6 +30,21 @@ Gold sponsor:
   </tbody>
 </table>
 
+Table of contents:
+
+- About Code It Up
+- Why Bother With Async?
+- From Sync to Async
+- Asynchronous vs Multithreaded
+- Task & Task of T
+- The async & await Keywords
+- Is Async Faster Than Sync?
+- Gotchas & Antipatterns
+- Canceling Tasks
+- Tasks Behind The Scenes
+- async & await Behind The Scenes
+- The New ValueTask
+
 If you'd like to support me and my projects, please consider:
 
 - [My mentorship program on Patreon](https://www.patreon.com/ivaylokenov)
